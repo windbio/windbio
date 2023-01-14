@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @windbio
+- 👋 Hi, I’m wind
 - 📫 reach me by  windism@qq.com
 - 🌍 [website](https://windbio.github.io)
